@@ -95,3 +95,11 @@
       padding-left: 100px;
     }
   }
+
+  .is_selected {
+    color: $--color-primary;
+  }
+  
+  .radio_label {
+    font-size: 14px;
+  }
